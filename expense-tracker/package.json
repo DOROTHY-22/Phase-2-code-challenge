@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "test-build": "echo 'Build script running!'",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
